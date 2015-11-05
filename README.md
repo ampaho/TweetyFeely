@@ -4,7 +4,7 @@ TweetyFeely is a Shiny app that allows you to read the positive and negative twe
 
 It uses the [twitteR](https://github.com/geoffjentry/twitteR) R package to connect to the micro-blogging service.
 
-I wrote this app as a demo to get a job in NLP and sentiment analysis. The idea was to write a quick prototype in 20 minutes or less, as part of the interview.
+This little app got me a job as an NLP engineer. The idea was to write a quick prototype in 20 minutes or less, as part of the interview.
 
 Here are some of the recent screenshots of the app:
 
